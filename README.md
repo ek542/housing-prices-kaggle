@@ -1,6 +1,6 @@
 # housing-prices-kaggle
 
-This repo contains my code for the House Prices - Advanced Regression Techniques competition on Kaggle. I use simple regression techniques only for this competition. 
+This repo contains my code for the House Prices - Advanced Regression Techniques competition on Kaggle. I have only used regression techniques for this competition. 
 
 Link to competition: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview 
 
